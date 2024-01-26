@@ -1,4 +1,9 @@
 # Design VI 
+
+##About Me
+Hello everyone! My name is **Sneha Banda** , and I am majoring in Computer Engineering with a concentration in *Software Engineering Design*. I am excited to have a great learning experience during **Design 6**.
+
+## Class Details
 **Meeting Time:** Monday 10:00 AM to 11:50 AM
 
 **Classroom Location:** Babbio Center BC-104
