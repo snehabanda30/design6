@@ -2,7 +2,7 @@
 
 ## About Me
 Hello everyone!
-<font color="blue">My name is </font>  *Sneha Banda* , and I am majoring in *Computer Engineering* with a concentration in *Software Engineering Design*. I am excited to have a great learning experience during **Design 6**.
+<font color="blue">My name is </font>  *Sneha Banda* , and I am majoring in *Computer Engineering* with a concentration in *Software Engineering Design*. I am excited to have a great learning experience during **Design 6**. A fun fact about me is that I enjoy running!
 
 ## Class Details
 **Meeting Time:** Monday 10:00 AM to 11:50 AM
