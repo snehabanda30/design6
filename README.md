@@ -2,7 +2,7 @@
 
 ## About Me
 Hello everyone!
-<span style="color:blue">some *blue* My name is</span>. *Sneha Banda* , and I am majoring in *Computer Engineering* with a concentration in *Software Engineering Design*. I am excited to have a great learning experience during **Design 6**.
+<font color="blue">My name is </font>  *Sneha Banda* , and I am majoring in *Computer Engineering* with a concentration in *Software Engineering Design*. I am excited to have a great learning experience during **Design 6**.
 
 ## Class Details
 **Meeting Time:** Monday 10:00 AM to 11:50 AM
@@ -63,3 +63,72 @@ Hello everyone!
 1.1 *(Tools)* Students will be familiar with the use of standard search engines and keywords for an undirected search for information relevant to a specific project, familiar with the use of directed searches, starting from a known-good site and searching for information at that site relevant to a specific project and familiar with resources for compression/decompression of information.
 
 1.2 *(Tools)* Students will be able to efficiently locate information describing and assessing software tools for exploring the mathematical algorithms and techniques that are embedded in a student project.
+
+## Grading Procedures
+
+**Attendance:** 15%
+
+**Assignments:** 75%
+
+**Labs:** 10%
+
+**Total:** 100%
+
+## Course Schedule
+
+2024-01-22 **Lesson 0:** Syllabus
+
+2024-01-29 **Lesson 1:** Overview
+
+2024-02-05 **Lesson 2:** Needs Assessment
+
+2024-02-12 **Lesson 3:** Structuring the Search for the Problem
+
+2024-02-21 *(Wednesday)* **Lesson 4:** Structuring the Search for a Solution
+
+2024-02-26 **Lesson 5:** Acquiring, Applying, and Protecting Technical Knowledge
+
+2024-03-04 **Lesson 6:** Abstraction and Modeling
+
+2024-03-11 No Class (Spring Recess)
+
+2024-03-18 **Lesson 7:** Synthesis
+
+2024-03-25 **Lesson 8:** Ethics and Product Liability
+
+2024-04-01 **Lesson 9:** Hazards Analysis and Failure Analysis
+
+2024-04-08 **Lesson 10:** Design Analysis
+
+2024-04-15 **Lesson 11:** Implementation
+
+2024-04-22 Lab Review
+
+2024-04-29 Lab Review
+
+2024-05-06 Lab Due
+
+## Course Material
+
+Textbook: Engineering by DesignLinks to an external site. by Gerard Voland
+
+Labs: https://github.com/kevinwlu/iotLinks to an external site.
+
+Course Web Address: https://sites.google.com/view/ece322Links to an external site.
+
+Projects: https://sites.google.com/view/ece322/projectsLinks to an external site.
+
+Senior Design Projects: https://sites.google.com/view/ece423/projectsLinks to an external site.
+
+Academic Calendar: https://www.stevens.edu/page-basic/academic-calendarLinks to an external site. 
+
+Academic Catalog: https://www.stevens.edu/academics/academic-catalogLinks to an external site. 
+
+Program Completion: https://www.stevens.edu/page-basic/program-completionLinks to an external site. 
+
+ECE Student Advisement Modules: https://sit.instructure.com/courses/43625/modules 
+
+Workday Student Modules: https://sit.instructure.com/courses/35399 
+
+Stevens Library Database and Research Guide: https://library.stevens.edu/
+
