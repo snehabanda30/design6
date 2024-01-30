@@ -1,10 +1,15 @@
 # Design VI 
+![Stevens](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45GZEOnVrR5PVJeY95ao65QqnQBBs4HqO7pBe-cQeMg&s)
 ___________________________________________________________________________________________________
 ## About Me
 >Hello everyone!
 >
 ><font color="blue">My name is </font>  *Sneha Banda* , and I am majoring in *Computer Engineering* with a concentration in *Software Engineering Design*. I am excited to have a great learning experience during **Design 6**.
 > I wanted to major in computer engineering, in order to get exposure of software and hardware integration. Through my classes at Stevens, I was able to determine that I wanted to do my concentration in software engineering. In my free time, I love hanging out with my friends, exploring the city and running!
+___________________________________________________________________________________________________
+## Contact Info 
+**Email:**<sbanda1@stevens.edu>
+`This is what code.`
 ___________________________________________________________________________________________________
 ## Class Details
 **Meeting Time:** Monday 10:00 AM to 11:50 AM
@@ -116,27 +121,25 @@ ________________________________________________________________________________
 
 ## Course Material
 
-Textbook: Engineering by DesignLinks to an external site. by Gerard Voland
+[Labs](https://github.com/kevinwlu/iotLinks)
 
-Labs: https://github.com/kevinwlu/iotLinks to an external site.
+[Course Web Address](https://sites.google.com/view/ece322)
 
-Course Web Address: https://sites.google.com/view/ece322Links to an external site.
+[Projects](https://sites.google.com/view/ece322/projects)
 
-Projects: https://sites.google.com/view/ece322/projectsLinks to an external site.
+[Senior Design Projects](https://sites.google.com/view/ece423/projects )
 
-Senior Design Projects: https://sites.google.com/view/ece423/projectsLinks to an external site.
+[Academic Calendar](https://www.stevens.edu/page-basic/academic-calendar.) 
 
-Academic Calendar: https://www.stevens.edu/page-basic/academic-calendarLinks to an external site. 
+[Academic Catalog](https://www.stevens.edu/academics/academic-catalog) 
 
-Academic Catalog: https://www.stevens.edu/academics/academic-catalogLinks to an external site. 
+[Program Completion](https://www.stevens.edu/page-basic/program-completion) 
 
-Program Completion: https://www.stevens.edu/page-basic/program-completionLinks to an external site. 
+[ECE Student Advisement Modules](https://sit.instructure.com/courses/43625/modules) 
 
-ECE Student Advisement Modules: https://sit.instructure.com/courses/43625/modules 
+[Workday Student Modules](https://sit.instructure.com/courses/35399) 
 
-Workday Student Modules: https://sit.instructure.com/courses/35399 
-
-Stevens Library Database and Research Guide: https://library.stevens.edu/
+[Stevens Library Database and Research Guide](https://library.stevens.edu/)
 ___________________________________________________________________________________________________
-![Stevens](stevens.jpg)
+
 
