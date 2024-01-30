@@ -1,9 +1,11 @@
 # Design VI 
-
+___________________________________________________________________________________________________
 ## About Me
-Hello everyone!
-<font color="blue">My name is </font>  *Sneha Banda* , and I am majoring in *Computer Engineering* with a concentration in *Software Engineering Design*. I am excited to have a great learning experience during **Design 6**. A fun fact about me is that I enjoy running!
-
+>Hello everyone!
+>
+><font color="blue">My name is </font>  *Sneha Banda* , and I am majoring in *Computer Engineering* with a concentration in *Software Engineering Design*. I am excited to have a great learning experience during **Design 6**.
+> I wanted to major in computer engineering, in order to get exposure of software and hardware integration. Through my classes at Stevens, I was able to determine that I wanted to do my concentration in software engineering. In my free time, I love hanging out with my friends, exploring the city and running!
+___________________________________________________________________________________________________
 ## Class Details
 **Meeting Time:** Monday 10:00 AM to 11:50 AM
 
@@ -12,7 +14,7 @@ Hello everyone!
 **Lab Location:** ECE Teaching Labs at Library Basement SL-B12
 
 **Instructor:** Dr. Kevin Lu 
-
+___________________________________________________________________________________________________
 ## Learning Objectives 
 - Formulate problems correctly
 - Work successfully in interdisciplinary teams
@@ -21,6 +23,7 @@ Hello everyone!
 - Apply the knowledge and skills acquired in earlier course work
 - Make informed ethical decisions
 - Hone written and oral communication skills
+___________________________________________________________________________________________________
 ## Student Learning Objectives 
 **Program Outcome 1: (Complex Problem Solving)**
 
@@ -63,6 +66,7 @@ Hello everyone!
 1.1 *(Tools)* Students will be familiar with the use of standard search engines and keywords for an undirected search for information relevant to a specific project, familiar with the use of directed searches, starting from a known-good site and searching for information at that site relevant to a specific project and familiar with resources for compression/decompression of information.
 
 1.2 *(Tools)* Students will be able to efficiently locate information describing and assessing software tools for exploring the mathematical algorithms and techniques that are embedded in a student project.
+___________________________________________________________________________________________________
 
 ## Grading Procedures
 
@@ -73,6 +77,7 @@ Hello everyone!
 **Labs:** 10%
 
 **Total:** 100%
+___________________________________________________________________________________________________
 
 ## Course Schedule
 
@@ -107,6 +112,7 @@ Hello everyone!
 2024-04-29 Lab Review
 
 2024-05-06 Lab Due
+___________________________________________________________________________________________________
 
 ## Course Material
 
@@ -131,4 +137,6 @@ ECE Student Advisement Modules: https://sit.instructure.com/courses/43625/module
 Workday Student Modules: https://sit.instructure.com/courses/35399 
 
 Stevens Library Database and Research Guide: https://library.stevens.edu/
+___________________________________________________________________________________________________
+![Stevens](stevens.jpg)
 
