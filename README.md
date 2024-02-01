@@ -8,8 +8,7 @@ ________________________________________________________________________________
 > I wanted to major in computer engineering, in order to get exposure of software and hardware integration. Through my classes at Stevens, I was able to determine that I wanted to do my concentration in software engineering. In my free time, I love hanging out with my friends, exploring the city and running!
 ___________________________________________________________________________________________________
 ## Contact Info 
-**Email:**<sbanda1@stevens.edu>
-`This is what code.`
+**Email:** <sbanda1@stevens.edu>
 ___________________________________________________________________________________________________
 ## Class Details
 **Meeting Time:** Monday 10:00 AM to 11:50 AM
@@ -138,6 +137,121 @@ ________________________________________________________________________________
 [ECE Student Advisement Modules](https://sit.instructure.com/courses/43625/modules) 
 
 [Workday Student Modules](https://sit.instructure.com/courses/35399) 
+
+___________________________________________________________________________________________________
+## Example Code:
+
+```
+SQL & Java 
+   System.out.println("1:Query the license information of specific drivers");
+     System.out.println("2:Query the exam information of specific drivers"); 
+     System.out.println("3:Search the driver information for specific branches.");
+     System.out.println("4:Search the branch information.");
+     System.out.println("5:Report the drivers with expired licenses."); 
+     System.out.println("6:Report data errors in the Exam table.");
+     
+     
+     Scanner options = new Scanner (System.in);
+     String option;
+     System.out.println("Choose an option ");
+     option = options.nextLine();
+    int value = 0;
+    while (value == 0)
+     {
+        switch (option) {
+        // change this 
+          case "1":
+        	Scanner case1 = new Scanner (System.in);
+        	String name;
+            System.out.println("What is the driver's name to output the license information?");
+            name = case1.nextLine();
+            value=1; 
+            
+            Statement s = conn.createStatement ();
+            s.executeQuery ("SELECT L.license_type, L.issue_date, L.license_expiry, B.Branch_name "
+            		+ "FROM License L NATURAL JOIN Driver D NATURAL JOIN Branch B"
+            		+ " WHERE D.Driver_name = '"+name+"'");
+            ResultSet rs = s.getResultSet ();
+            int count = 0;
+            while (rs.next ())
+               {
+                   String idVal = rs.getString ("L.license_type");
+                   Date nameVal = rs.getDate ("L.issue_date");
+                   Date addrVal = rs.getDate ("L.license_expiry");
+                   String branchVal = rs.getString ("B.Branch_name");
+                   System.out.println (
+                           "license type = " + idVal
+                           + ", issue date = " + nameVal
+                           + ", license expiry = " + addrVal
+                           + ", branch name = "+ branchVal);
+                   ++count;
+               }
+               rs.close ();
+               s.close ();
+               System.out.println (count + " rows were retrieved");
+            
+            break;
+          case "2":
+        	Scanner case2 = new Scanner (System.in);
+          	String name2;
+            System.out.println("What is the driver's name to output the exam information?");
+            name2 = case2.nextLine();
+            value=1;
+            // Outputs : 
+            // exam records, 
+            // including the branch name, exam date, and exam score of the inquired driver. 
+            Statement s1 = conn.createStatement ();
+            s1.executeQuery ("SELECT E.Exam_date, E.Exam_score, B.Branch_name "
+            		+ "FROM DRIVER D NATURAL JOIN EXAM E NATURAL JOIN Branch B WHERE Driver_name = '"+name2+"'");
+            ResultSet rs1 = s1.getResultSet ();
+            int count1 = 0;
+            while (rs1.next ())
+            {
+                Date idVal1 = rs1.getDate ("E.Exam_date");
+                Integer nameVal1 = rs1.getInt ("E.Exam_score");
+                String branchVal1 = rs1.getString ("B.Branch_name");
+                System.out.println (
+                        "Exam Date = " + idVal1
+                        + ", Exam Score = " + nameVal1
+                        + ", branch name = "+ branchVal1);
+                ++count1;
+            }
+            rs1.close ();
+            s1.close ();
+            System.out.println (count1 + " rows were retrieved");
+            
+            break;
+          case "3":
+        
+        	Scanner case3 = new Scanner (System.in);
+            String name3;
+            System.out.println("What is the branch name?");
+            name3 = case3.nextLine();
+            value=1; 
+            // information of all drivers: 
+            // name, address, city, phone number, and license type of these drivers 
+            Statement s2 = conn.createStatement ();
+            s2.executeQuery ("SELECT D.Driver_name, D.Driver_city, D.Driver_phone, L.License_Type FROM Branch B NATURAL JOIN License L NATURAL JOIN Driver D  WHERE Branch_name = '"+name3+"'");
+            ResultSet rs2 = s2.getResultSet ();
+            int count2 = 0;
+            while (rs2.next ())
+            {
+                String idVal2 = rs2.getString ("D.Driver_name");
+                String nameVal2 = rs2.getString ("D.Driver_city");
+                Integer branchVal2 = rs2.getInt ("D.Driver_phone");
+                String licenseVal2 = rs2.getString ("L.License_Type");
+                System.out.println (
+                        "Driver Name= " + idVal2
+                        + ", Driver City = " + nameVal2
+                        + ", Driver phone = "+ branchVal2
+                		+ ", License Type = "+ licenseVal2);
+                ++count2;
+            }
+            rs2.close ();
+            s2.close ();
+            System.out.println (count2 + " rows were retrieved");
+            break;
+```
 
 [Stevens Library Database and Research Guide](https://library.stevens.edu/)
 ___________________________________________________________________________________________________
