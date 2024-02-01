@@ -4,7 +4,7 @@ ________________________________________________________________________________
 ## About Me
 >Hello everyone!
 >
-><font color="blue">My name is </font>  *Sneha Banda* , and I am majoring in *Computer Engineering* with a concentration in *Software Engineering Design*. I am excited to have a great learning experience during **Design 6**.
+>My name is *Sneha Banda*, and I am majoring in *Computer Engineering* with a concentration in *Software Engineering Design*. I am excited to have a great learning experience during **Design 6**.
 > I wanted to major in computer engineering, in order to get exposure of software and hardware integration. Through my classes at Stevens, I was able to determine that I wanted to do my concentration in software engineering. In my free time, I love hanging out with my friends, exploring the city and running!
 ___________________________________________________________________________________________________
 ## Contact Info 
