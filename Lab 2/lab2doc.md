@@ -3,13 +3,17 @@
 # $ hostname
 ![Alt text](hostname.png)
 # $ env
+![Alt text](env.png)
 # $ ps
 # $ pwd
 # $ git clone https://github.com/kevinwlu/iot.git
 # $ cd iot
 # $ ls
+![Alt text](ls.png)
 # $ cd
+![Alt text](cddf.png)
 # $ df
+![Alt text](cddf.png)
 # $ mkdir demo
 # $ cd demo
 # $ nano file
