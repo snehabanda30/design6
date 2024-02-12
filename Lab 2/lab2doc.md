@@ -6,6 +6,7 @@
 ![Alt text](env.png)
 # $ ps
 # $ pwd
+![Alt text](pwd.png)
 # $ git clone https://github.com/kevinwlu/iot.git
 # $ cd iot
 # $ ls
