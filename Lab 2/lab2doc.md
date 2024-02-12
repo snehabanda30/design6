@@ -1,49 +1,49 @@
 
 
 # $ hostname
-![Alt text](hostname.png)
+![Alt text](Screenshots/hostname.png)
 # $ env
-![Alt text](env.png)
+![Alt text](Screenshots/env.png)
 # $ ps
 # $ pwd
-![Alt text](pwd.png)
+![Alt text](Screenshots/pwd.png)
 # $ git clone https://github.com/kevinwlu/iot.git
 # $ cd iot
 # $ ls
-![Alt text](ls.png)
+![Alt text](Screenshots/ls.png)
 # $ cd
-![Alt text](cddf.png)
+![Alt text](Screenshots/cddf.png)
 # $ df
-![Alt text](cddf.png)
+![Alt text](Screenshots/cddf.png)
 # $ mkdir demo
 # $ cd demo
 # $ nano file
-![Alt text](gnu.png)
+![Alt text](Screenshots/gnu.png)
 # $ cat file
-![Alt text](filefile2.png)
+![Alt text](Screenshots/filefile2.png)
 # $ cp file file1
-![Alt text](filefile2.png)
+![Alt text](Screenshots/filefile2.png)
 # $ mv file file2
-![Alt text](filefile2.png)
+![Alt text](Screenshots/filefile2.png)
 # $ rm file2
-![Alt text](filefile2.png)
+![Alt text](Screenshots/filefile2.png)
 # $ clear
-![Alt text](filefile2.png)
+![Alt text](Screenshots/filefile2.png)
 $ man uname
 
 
 # $ uname -a
-![Alt text](uname.png)
+![Alt text](Screenshots/uname.png)
 
 
 # $ ifconfig
-![Alt text](commandsbeforenetstat.png)
+![Alt text](Screenshots/commandsbeforenetstat.png)
 
 
 # $ ping localhost
-![Alt text](commandsbeforenetstat.png)
+![Alt text](Screenshots/commandsbeforenetstat.png)
 
 
 # $ netstat
-![Alt text](netstat.png)
+![Alt text](Screenshots/netstat.png)
 
