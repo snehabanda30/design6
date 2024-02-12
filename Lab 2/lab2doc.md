@@ -12,19 +12,28 @@ $ cd
 $ df
 $ mkdir demo
 $ cd demo
-$ nano file
-
-![Alt text]( relative/path/to/uname.png?raw=true "Optional Title"  )
-
-![Alt text](netstat.png)
+# $ nano file
+![Alt text](gnu.png)
 $ cat file
 $ cp file file1
 $ mv file file2
 $ rm file2
 $ clear
 $ man uname
-$ uname -a
-$ ifconfig
-$ ping localhost
-$ netstat
+
+
+# $ uname -a
+![Alt text](uname.png)
+
+
+# $ ifconfig
+![Alt text](commandsbeforenetstat.png)
+
+
+# $ ping localhost
+![Alt text](commandsbeforenetstat.png)
+
+
+# $ netstat
+![Alt text](netstat.png)
 
