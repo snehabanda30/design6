@@ -1,2 +1,2 @@
 
-![Alt text](Screenshots/output.png)
+![Alt text](Screenshot/output.png)
