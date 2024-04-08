@@ -4,9 +4,7 @@
 ![Alt text](Screenshots/horizontal.png)
 ![Alt text](Screenshots/vertical.png)
 ![Alt text](Screenshots/memoryavailandcpuusage.png)
-![Alt text](Screenshots/scattediagramwithlinearregression.png)
-
-
+![Alt text](Screenshots/scatterdiagramwithlinearregression.png)
 
 
 #plt_cv2.py 
