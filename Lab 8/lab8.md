@@ -7,4 +7,5 @@
 ![Alt text](Screenshots/scatterdiagramwithlinearregression.png)
 
 
-#plt_cv2.py 
+# plt_cv2.py
+![Alt text](Screenshots/cv2.png)
