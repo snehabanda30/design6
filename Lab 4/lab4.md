@@ -18,3 +18,8 @@
 ![Alt text](Screenshots/memlist.png)
 
 ![Alt text](Screenshots/mycpu.png)
+
+
+# Flask Output
+
+![Alt text](flaskoutput.png)
