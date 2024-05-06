@@ -3,7 +3,7 @@
 ![Alt text](Screenshots/cpuusagevs.probabilityred.png)
 ![Alt text](Screenshots/horizontal.png)
 ![Alt text](Screenshots/vertical.png)
-![Alt text](Screenshots/memoryavailandcpuusage.png)
+![Alt text](newlyupdated.png)
 ![Alt text](Screenshots/scatterdiagramwithlinearregression.png)
 
 
