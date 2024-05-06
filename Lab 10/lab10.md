@@ -4,4 +4,5 @@
 ![Alt text](Screenshots/pythonsnakecoinoutput.png)
 ![Alt text](Screenshots/snakecoin-server-full-code.png)
 ![Alt text](Screenshots/runapp.png)
-![Alt text](Screenshots/Block#1mined.png)
+![Alt text](Screenshots/Blockmined.png)
+![Alt text](Screenshots/output.png)
