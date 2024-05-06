@@ -1,0 +1,7 @@
+![Alt text](Screenshots/cathashvalue.png)
+![Alt text](Screenshots/catsnakecoin.png)
+![Alt text](Screenshots/pythonsnakecoin.png)
+![Alt text](Screenshots/pythonsnakecoinoutput.png)
+![Alt text](Screenshots/snakecoin-server-full-code.png)
+![Alt text](Screenshots/runapp.png)
+![Alt text](Screenshots/Block#1mined.png)
